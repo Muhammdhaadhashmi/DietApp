@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "441549794806",
+    "project_id": "smart-workout-ef6a1",
+    "storage_bucket": "smart-workout-ef6a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441549794806:android:66dd988f863d6e8854abd7",
+        "android_client_info": {
+          "package_name": "com.example.diet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441549794806-vl0a88eho4cudt9omhn60k7geancpa1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diet",
+            "certificate_hash": "495d6f4ba5355b81e7e238e421473eee5930a90f"
+          }
+        },
+        {
+          "client_id": "441549794806-ujnbbtlfgi48os2mr2egvicp96ba5qlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYz3IdeLNjovwMi2mWqPox3v442R_k1kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441549794806-ujnbbtlfgi48os2mr2egvicp96ba5qlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
